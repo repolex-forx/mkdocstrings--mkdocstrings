@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mkdocstrings/mkdocstrings/commit/e9538c4045166202cc4442c56ae890b94173b9ae",
       "git:hexsha": "e9538c4045166202cc4442c56ae890b94173b9ae",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T10:55:02.688147+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mkdocstrings/mkdocstrings/commit/ae56bdd9ac5692665409e99eb0fd509d8dfc605e",
