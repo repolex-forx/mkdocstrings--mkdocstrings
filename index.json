@@ -1,0 +1,11 @@
+{
+  "org": "mkdocstrings",
+  "repo": "mkdocstrings",
+  "versions": [
+    {
+      "commit": "e9538c4045166202cc4442c56ae890b94173b9ae",
+      "tag": "",
+      "parsed_at": "2026-10-19T10:55:02.688972+00:00"
+    }
+  ]
+}
